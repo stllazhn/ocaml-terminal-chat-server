@@ -29,7 +29,6 @@ This is an OCaml command-line chat application built with Lwt. It supports runni
 ocaml-terminal-chat-server/
 ├── README.md
 ├── .gitignore
-├── .ocamlformat
 ├── dune-project
 ├── A7.opam
 ├── dune
