@@ -1,0 +1,35 @@
+commit cd712ec87205696a77ec1937ea6f95ca7b3ce1a3
+Author: Juanru Zhang <jz766@cornell.edu>
+Date:   Sun Apr 28 17:32:55 2024 -0400
+
+    Add name
+
+commit 97eb777746b2ed78ce61c1bb865968dbfe82a859
+Author: Juanru Zhang <jz766@cornell.edu>
+Date:   Sun Apr 28 17:32:15 2024 -0400
+
+    Reformat lines
+
+commit caa1e49e1e33af197e880c792baa95b3e19792e7
+Author: Juanru Zhang <jz766@cornell.edu>
+Date:   Sun Apr 28 15:11:48 2024 -0400
+
+    Fix main.ml errors
+    
+    - Allow for continuous message send and print
+    - Fix disconnection issue
+
+commit aede1db4c99d1f55a94e82ce91d37ba02396e17a
+Author: Juanru Zhang <jz766@cornell.edu>
+Date:   Sat Apr 27 15:58:15 2024 -0400
+
+    Finish basic messaging implementation
+    
+    - Finish main.ml
+    - Bugs still remain
+
+commit 5cd221df37bd71d7911a4f9d44968ca7a0388483
+Author: Juanru Zhang <jz766@cornell.edu>
+Date:   Sat Apr 27 03:22:50 2024 -0400
+
+    Initial commit
